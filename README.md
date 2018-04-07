@@ -1,1 +1,1 @@
-# cnn_desmoke
+# Training code will be uploaded soon
