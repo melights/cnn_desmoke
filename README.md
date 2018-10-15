@@ -10,7 +10,7 @@ If this code is useful for your project, please consider to cite:
 ```
 Chen, L., Wen, T., John, N.W
 Unsupervised Learning of Surgical Smoke Removal from Simulation. 
-Hamlyn Symposium on Medical Robotics. 2017.
+Hamlyn Symposium on Medical Robotics. 2018.
 ```
 ### Requirements ###
 
